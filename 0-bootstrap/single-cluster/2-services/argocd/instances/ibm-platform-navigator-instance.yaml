@@ -27,7 +27,7 @@ spec:
             spec:
               license:
                 accept: true
-                license: L-RJON-C7QG3S
+                license: L-RJON-BZFQU2
               mqDashboard: true
               version: "2021.2.1"
               replicas: 2
